@@ -7,7 +7,7 @@ titulo = Label(text = 'BIENVENIDOS')
 titulo.pack()
 
 principal.geometry(str(ancho)+'x'+str(alto))
-principal.title("Examen Final")
+principal.title("Examen Final - CÉLITA MORALES")
 
 nombre = Label(text='Nombre', bg= "#ddd")
 nombre.place(x=90, y=50)
